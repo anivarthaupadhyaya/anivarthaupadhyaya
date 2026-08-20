@@ -10,8 +10,7 @@
 <tr>
 <td width="38%" align="center">
 
-<img src="./profile.jpg" width="90%" alt="Anivartha Upadhyaya">
-
+<img src="./profile.jpeg" width="90%" alt="Anivartha Upadhyaya">
 <br><br>
 
 ### ANIVARTHA UPADHYAYA
