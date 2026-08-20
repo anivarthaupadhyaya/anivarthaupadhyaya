@@ -1,152 +1,176 @@
-# Hi there, I'm Anivartha Upadhyaya 👋
+<div align="center">
 
-Computer Science Engineering Student at **PES University**
+# 👋 Hi, I'm Anivartha Upadhyaya
 
-I'm passionate about building full-stack applications, AI-powered systems, and cybersecurity solutions that solve real-world problems. I enjoy working across the stack, exploring emerging technologies, and turning ideas into practical projects through hands-on development.
+### Computer Science Engineering Student @ PES University
 
----
+</div>
 
-## Technical Skills
+<table>
+<tr>
+<td width="38%" align="center">
 
-### Languages
+<img src="./profile.jpg" width="90%" alt="Anivartha Upadhyaya">
 
-- C++
-- Java
-- Python
-- JavaScript
-- TypeScript
-- SQL
+<br><br>
 
-### Frontend
+### ANIVARTHA UPADHYAYA
 
-- React
-- Next.js
-- Tailwind CSS
-- HTML
-- CSS
+**CSE Student | Full-Stack Developer | AI/ML Enthusiast**
 
-### Backend
+📍 Bangalore, India
 
-- Node.js
-- Express.js
-- REST APIs
-- NextAuth
-- Prisma
+📧 [Email](mailto:anivarthau@gmail.com)
 
-### AI / Machine Learning
+💼 [LinkedIn](https://linkedin.com/in/anivartha-u)
 
-- NLP
-- Large Language Models (LLMs)
-- Speech-to-Text
-- Text Summarization
-- Question Generation
-- Google Gemini AI
-- Mistral AI
-- Sentence Transformers
-- FAISS
+💻 [GitHub](https://github.com/anivarthaupadhyaya)
 
-### Databases
-
-- PostgreSQL
-- MySQL
-
-### Cybersecurity
-
-- Wazuh
-- SIEM
-- SQL Injection Detection
-- Incident Response
-
-### Tools & Practices
-
-- Git
-- GitHub
-- Docker
-- CI/CD
-- Agile
-- REST APIs
-- MVC Architecture
-- SOLID Principles
+🧠 [LeetCode](https://leetcode.com/u/anivartha)
 
 ---
 
-## Featured Projects
+### 🏆 PROFILE
 
-### AutoQ-Vid: AI-Driven QA Generation
+**200+**  
+LeetCode Problems
 
-An AI-powered pipeline that generates question-answer pairs from educational video lectures using speech-to-text transcription, NLP-based summarization, and question-generation models.
+**200+**  
+Team Members Led
 
-**Tech:** Python, NLP, Speech-to-Text Models
+**160+**  
+Hackathon Participants
+
+**35**  
+Teachers Reached Through AI Seminar
+
+</td>
+
+<td width="62%" valign="top">
+
+## 👨‍💻 About Me
+
+I'm a Computer Science Engineering student at **PES University** passionate about building full-stack applications, AI-powered systems, and cybersecurity solutions.
+
+I enjoy turning ideas into practical software and exploring technologies across the development stack — from modern frontend frameworks and backend systems to AI/ML and cybersecurity.
 
 ---
 
-### CIE Management System
+## 🛠️ Technical Skills
+
+### 💻 Programming
+
+`C++` `Java` `Python` `JavaScript` `TypeScript` `SQL`
+
+### 🌐 Frontend
+
+`React` `Next.js` `Tailwind CSS` `HTML` `CSS`
+
+### ⚙️ Backend
+
+`Node.js` `Express.js` `REST APIs` `Prisma` `NextAuth`
+
+### 🗄️ Databases
+
+`PostgreSQL` `MySQL`
+
+### 🤖 AI / Machine Learning
+
+`NLP` `LLMs` `Speech-to-Text`  
+`Text Summarization` `Question Generation`  
+`Google Gemini AI` `Mistral AI`  
+`Sentence Transformers` `FAISS`
+
+### 🛡️ Cybersecurity
+
+`Wazuh` `SIEM` `SQL Injection Detection`  
+`Incident Response`
+
+### 🔧 DevOps & Tools
+
+`Git` `GitHub` `Docker` `CI/CD` `Agile`
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AutoQ-Vid
+
+**AI-Driven Question & Answer Generation from Educational Videos**
+
+An end-to-end pipeline that generates question-answer pairs from educational video lectures using speech-to-text transcription, NLP-based summarization, and question-generation models.
+
+**Tech:** `Python` `NLP` `Speech-to-Text`
+
+---
+
+### 🏫 CIE Management System
 
 A full-stack academic management platform designed to support students and faculty with modules for lab component management, library management, project management, and laboratory/meeting-space booking.
 
-**Tech:** Next.js, TypeScript, PostgreSQL, Prisma, NextAuth, Tailwind CSS, Node.js
+**Tech:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth` `Node.js`
 
 ---
 
-### Security Operations Simulation
+### 🛡️ Security Operations Simulation
 
-A simulated cybersecurity incident-response system for detecting and responding to SQL injection attacks using Wazuh SIEM, firewall rules, and automated incident-response workflows.
+A simulated cybersecurity incident-response pipeline for detecting and responding to SQL injection attacks using Wazuh SIEM and automated response mechanisms.
 
-**Tech:** Wazuh, SIEM, Firewall, Incident Response
-
----
-
-### Converty — File Conversion Service
-
-A file conversion platform supporting 6+ file formats with a backend processing pipeline and containerized deployment.
-
-**Tech:** Next.js, Node.js, PostgreSQL, TypeScript, Docker
+**Tech:** `Wazuh` `SIEM` `Firewall` `Incident Response`
 
 ---
 
-### Game-HUB
+### 🔄 Converty
 
-A game discovery platform that allows users to explore popular, recently released, and upcoming games, search for titles, and view ratings, screenshots, platforms, and release information.
+A file conversion platform supporting **6+ file formats** with an efficient backend processing pipeline and Docker-based deployment.
 
-**Tech:** React, TypeScript, Tailwind CSS, RAWG API
-
----
-
-### Skill Swap
-
-A two-sided mentor-learner platform that enables users to teach and learn skills across different categories, with content-based mentor recommendations, ratings, feedback, and real-time notifications.
-
-**Tech:** Java
+**Tech:** `Next.js` `Node.js` `PostgreSQL` `TypeScript` `Docker`
 
 ---
 
-## Currently Learning
+### 🎮 Game-HUB
+
+A game discovery platform for exploring popular, recently released, and upcoming games with information including ratings, screenshots, platforms, and release dates.
+
+**Tech:** `React` `TypeScript` `Tailwind CSS` `RAWG API`
+
+---
+
+### 🤝 Skill Swap
+
+A mentor-learner platform enabling users to teach and learn skills across different categories with mentor recommendations, ratings, feedback, and real-time notifications.
+
+**Tech:** `Java`
+
+---
+
+## 📚 Currently Learning
 
 - Data Structures & Algorithms
 - System Design
 - Advanced React & Next.js
 - Backend Development
-- Artificial Intelligence & LLM Applications
-- Cybersecurity
+- AI & LLM Applications
+- Cybersecurity & Threat Analysis
 
 ---
 
-## Achievements & Leadership
+## 🏅 Leadership & Achievements
 
-- Solved **200+ problems on LeetCode**
-- Led a team of **200+ members** as Head of Club WEAL at PES University
-- Organized an inter-college hackathon with **160+ participants**
-- Organized an ideathon with **100+ participants**
-- Conducted an AI & Programming seminar for **35 Computer Science teachers**
-
----
-
-## Let's Connect
-
-- 💼 LinkedIn: [Anivartha Upadhyaya](https://linkedin.com/in/anivartha-u)
-- 💻 LeetCode: [Anivartha](https://leetcode.com/u/anivartha)
-- 📧 Email: anivarthau@gmail.com
+- 🧠 Solved **200+ LeetCode problems**
+- 👥 Led **200+ members** as Head of Club WEAL
+- 🚀 Organized an inter-college hackathon with **160+ participants**
+- 💡 Organized an ideathon with **100+ participants**
+- 🎤 Conducted an AI & Programming seminar for **35 Computer Science teachers**
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+<div align="center">
+
+### 💡 Building solutions. Learning continuously. Creating impact.
+
+</div>
+
+</td>
+</tr>
+</table>
